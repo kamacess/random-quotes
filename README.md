@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+quotes harvested from https://github.com/JamesFT/Database-Quotes-JSON/blob/master/README.md
+
 ## Available Scripts
 
 In the project directory, you can run:
